@@ -1,7 +1,5 @@
 # Hacking-Security-Ebooks
-Top 100 Hacking &amp; Security E-Books (Free Download) - Powered by <a href="https://www.yeahhub.com/">Yeahhub.com</a>.
-
-
+Top 100 Hacking &amp; Security E-Books (Free Download) - Powered by <a href="https://www.yeahhub.com/biggest-hacking-security-ebooks-collection-free-download/">Yeahhub.com</a>.
 
 <table width="100%" class="table">
 <tr>
