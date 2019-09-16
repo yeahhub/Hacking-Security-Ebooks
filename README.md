@@ -79,7 +79,7 @@ Top 100 Hacking &amp; Security E-Books (Free Download) - Powered by <a href="htt
 <tr><td>70.</td><td><a target="_blank" href="https://mega.nz/#!uCoU1CJJ!C1h-JhJu-4IQK36hF3ZbU2cJpPZol2nSP-vt_eeSr48">Practical Hacking Techniques and Countermeasures</a></td><td>752 Pages</td></tr>
 <tr><td>71.</td><td><a target="_blank" href="https://mega.nz/#!6Kh0kYgS!IoR3Q7iX680RdEFmIjllNFoLlBFxuJ7SR-L26W-yYg0">The Art of Intrusion by Kevin Mitnick</a></td><td>291 Pages</td></tr>
 <tr><td>72.</td><td><a target="_blank" href="https://mega.nz/#!qLhAWAhY!ShdnfmCy3cOCe3Mxzmo2fy3cbwul2XffCbc2DWHm_SY">Hack Notes - Windows Security Portable Reference</a></td><td>289 Pages</td></tr>
-<tr><td>73.</td><td><a target="_blank" href="https://mega.nz/#!ee5QWY7B!Ut6N4uuAfTNDc7EEJnvqjGp9CBn-cDafT4dI48UzM5M">Hacing - The Next Generation</a></td><td>298 Pages</td></tr>
+<tr><td>73.</td><td><a target="_blank" href="https://mega.nz/#!ee5QWY7B!Ut6N4uuAfTNDc7EEJnvqjGp9CBn-cDafT4dI48UzM5M">Hacking - The Next Generation</a></td><td>298 Pages</td></tr>
 <tr><td>74.</td><td><a target="_blank" href="https://mega.nz/#!KL4AUIzQ!iFdVoIfY91zn4tlVsiDVgjC2XoLnge6Zy0_FaRpZSkw">Hacking the Cable Modem</a></td><td>330 Pages</td></tr>
 <tr><td>75.</td><td><a target="_blank" href="https://mega.nz/#!OfgSiCqS!sg_WqSUwKcpYjWrmeERZHkxh8qK5cUUV0KBXEWo8ux4">Hackers Beware - Defending Your Network From The Wiley Hacker</a></td><td>817 Pages</td></tr>
 <tr><td>76.</td><td><a target="_blank" href="https://mega.nz/#!jX5AAaKJ!R7baBKxN7Y7WgNMd1AJu8Qe_VCsW6xuk5sTMhoZCmRU">Hack Proofing Your Network</a></td><td>826 Pages</td></tr>
