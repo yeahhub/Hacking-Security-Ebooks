@@ -15,7 +15,7 @@ Top 100 Hacking &amp; Security E-Books (Free Download) - Powered by <a href="htt
 <tr><td>6.</td><td><a target="_blank" href="https://mega.nz/#!Heg0jCQZ!Y6ZftkyGJc8Rw2WI63v213iIl_SMEtY1qBsb7p2nQjs">Metasploit - The Penetration Tester's Guide</a></td><td>332 Pages</td></tr>
 <tr><td>7.</td><td><a target="_blank" href="https://mega.nz/#!XKgAEIqJ!jQ0ohALFI2fKrO6S5JzRjOZn6YmAMqKgkCPQLM0Peew">Ethical Hacking and Penetration Testing Guide</a></td><td>523 Pages</td></tr>
 <tr><td>8.</td><td><a target="_blank" href="https://mega.nz/#!jSpChSpb!UGry-SnTLB3s4qMfh29s6jDromDGQc8I_fkWIqAY6rc">Network Attacks and Exploitation - A Framework</a></td><td>219 Pages</td></tr>
-<tr><td>9.</td><td><a target="_blank" href="https://file.io/RJybOx">Python Web Penetration Testing Cookbook</a></td><td>224 Pages</td></tr>
+<tr><td>9.</td><td><a target="_blank" href="https://difl.host/6e39ff5edc948cb1/09._Python_Web_Penetration_Testing_Cookbook.pdf">Python Web Penetration Testing Cookbook</a></td><td>224 Pages</td></tr>
 <tr><td>10.</td><td><a target="_blank" href="https://mega.nz/#!fXwylIQA!ZPFmeFnccvR4ltf_2lwTdi8PqHIArRx_bkqRP9wwq4k">Wireshark for Security Professionals</a></td><td>391 Pages</td></tr>
 <tr><td>11.</td><td><a target="_blank" href="https://openload.co/f/2tsVl0FU0Kc/11._Modern_Web_Penetration_Testing.pdf">Mastering Modern Web Penetration Testing</a></td><td>298 Pages</td></tr>
 <tr><td>12.</td><td><a target="_blank" href="https://mega.nz/#!Ka4yASIL!8yNyiuSHVQ3gOib4rKJYtwsCwSfqAfoFj2lQtwUyI8o">The Shellcoder's Handbook</a></td><td>745 Pages</td></tr>
@@ -33,10 +33,10 @@ Top 100 Hacking &amp; Security E-Books (Free Download) - Powered by <a href="htt
 <tr><td>24.</td><td><a target="_blank" href="https://mega.nz/#!XLo2hYAK!8bmNXXPvSgIotZTsPbGaR-dSj9MfyOoNmm7iZ2me798">Gray Hat Hacking - The Ethical Hacker's Handbook</a></td><td>577 Pages</td></tr>
 <tr><td>25.</td><td><a target="_blank" href="https://mega.nz/#!PPpwGKTT!pkJBqjgeN_BJWe8PRveaA4nwRICK7WQ80BUowDSVfXI">Hack Attacks Testing</a></td><td>561 Pages</td></tr>
 <tr><td>26.</td><td><a target="_blank" href="https://mega.nz/#!Sfx2WCBC!oh0fxNYfOqiyCNoeyqayetg_e2G3B8ZF7M3lr3NMCgU">Basic Security Testing with Kali Linux</a></td><td>242 Pages</td></tr>
-<tr><td>27.</td><td><a target="_blank" href="https://file.io/hN3U1S">Mastering Kali Linux for Advanced Penetration Testing</a></td><td>356 Pages</td></tr>
-<tr><td>28.</td><td><a target="_blank" href="https://file.io/us6j0D">Kali Linux CTF Blueprints</a></td><td>190 Pages</td></tr>
-<tr><td>29.</td><td><a target="_blank" href="https://file.io/7u3Wd8">Kali Linux Cookbook</a></td><td>261 Pages</td></tr>
-<tr><td>30.</td><td><a target="_blank" href="https://file.io/1Lv8jP">Kali Linux - Assuring Security by Penetration Testing</a></td><td>454 Pages</td></tr>
+<tr><td>27.</td><td><a target="_blank" href="https://difl.host/ba9765fffecd1e25/27._Mastering_Kali_Linux_For_Advanced_Penetration_Testing.pdf">Mastering Kali Linux for Advanced Penetration Testing</a></td><td>356 Pages</td></tr>
+<tr><td>28.</td><td><a target="_blank" href="https://difl.host/ab3e7a5e5a023fdc/28._Kali_Linux_CTF_Blueprints.pdf">Kali Linux CTF Blueprints</a></td><td>190 Pages</td></tr>
+<tr><td>29.</td><td><a target="_blank" href="https://difl.host/f152e4b334a4d268/29._Kali_Linux_Cookbook.pdf">Kali Linux Cookbook</a></td><td>261 Pages</td></tr>
+<tr><td>30.</td><td><a target="_blank" href="https://difl.host/670feaf53fca0080/30._Kali_Linux-_Assuring_Security_by_Penetration_Testing.pdf">Kali Linux - Assuring Security by Penetration Testing</a></td><td>454 Pages</td></tr>
 <tr><td>31.</td><td><a target="_blank" href="https://mega.nz/#!mC4QBApT!vZXeBRcG7poaDNMaNd9XXe7FYWAO8MIk4DYmglq1tBQ">Information Security  Management Handbook</a></td><td>3206 Pages</td></tr>
 <tr><td>32.</td><td><a target="_blank" href="https://mega.nz/#!vfwgjQRC!wjKpxiT-qi9r5W8px3-aDqiglZMr1fyh3ThkwPPyrRQ">Computer and Information Security Handbook</a></td><td>877 Pages</td></tr>
 <tr><td>33.</td><td><a target="_blank" href="https://mega.nz/#!aHgkjC6A!Z0ox5K8qeLeobE6VoBeXsrO5mxu68HeaczcCFRg5hC8">CISSP - Certified Information Systems Security Professional</a></td><td>804 Pages</td></tr>
@@ -103,7 +103,7 @@ Top 100 Hacking &amp; Security E-Books (Free Download) - Powered by <a href="htt
 <tr><td>94.</td><td><a target="_blank" href="https://mega.nz/#!nX5gHCjS!vdRejQKWoOBB5ADpsciwODys4EszjWFNjTaltJcyQ7w">SSH, The Secure Shell - The Definitive Guide</a></td><td>438 Pages</td></tr>
 <tr><td>95.</td><td><a target="_blank" href="https://mega.nz/#!uO5EDA5B!KuLXrn9rqzRxHVqygUSIkThb1HS0iHCDRRiuqNHLa9o">Pro PHP Security</a></td><td>369 Pages</td></tr>
 <tr><td>96.</td><td><a target="_blank" href="https://mega.nz/#!fC5CiaLL!f9u2h1diOMm2b1eD00DdEF8EyVAdrIgzz4V_JHrqtTo">Zero Day Exploit - Countdown to Darkness</a></td><td>363 Pages</td></tr>
-<tr><td>97.</td><td><a target="_blank" href="https://file.io/kgk8eN">Metasploit Penetration Testing Cookbook</a></td><td>269 Pages</td></tr>
+<tr><td>97.</td><td><a target="_blank" href="https://difl.host/ffa6915892383ac4/97._Metasploit_Penetration_Testing_Cookbook.pdf">Metasploit Penetration Testing Cookbook</a></td><td>269 Pages</td></tr>
 <tr><td>98.</td><td><a target="_blank" href="https://mega.nz/#!nLpw2abD!Tla1GsHPg6NzxdExbd03jK5--hr62-R_xG6aHaI4374">24 Deadly Sins of Software Securtiy</a></td><td>433 Pages</td></tr>
 <tr><td>99.</td><td><a target="_blank" href="https://mega.nz/#!DPhQ3ICB!hUk6UqVzfcfyPL3ftYx7HR6d9HNo7p8IdUQjNMlOCTQ">Botnets - The Killer Web App</a></td><td>482 Pages</td></tr>
 <tr><td>100.</td><td><a target="_blank" href="https://mega.nz/#!DKoWUI5B!WXfTCl5-quuooEq1xf-MOtm3iMaDLOt8v9X3hTm4rA8">Hacker Highschool - Hack School for Beginners (ZIP)</a></td><td>12 Books</td></tr>
