@@ -98,7 +98,7 @@ Top 100 Hacking &amp; Security E-Books (Free Download) - Powered by <a href="htt
 <tr><td>89.</td><td><a target="_blank" href="https://mega.nz/#!vWxATKgD!1J8CWb2F8QQ7tM2IoehHdj4d0zqtZC35BW4UhKntAIY">Mobile Malware - Attacks and Defense</a></td><td>386 Pages</td></tr>
 <tr><td>90.</td><td><a target="_blank" href="https://mega.nz/#!fW4QBKYA!VP02L9eUYydimUUecNgmfAGmy27lkKYCu3vd-2XBe4Y">Java 2 Network Security</a></td><td>702 Pages</td></tr>
 <tr><td>91.</td><td><a target="_blank" href="https://mega.nz/#!jXoyDQST!DIDP_AtW5044Ec7chE70SAcwDgjim1nP_-iCPhsVRr4">A Bug Hunter's Diary</a></td><td>212 Pages</td></tr>
-<tr><td>92.</td><td><a target="_blank" href="https://mega.nz/#!qa5kTYrK!k54v8jyljDLp5UFit1a0wYdovy4l-t5hFXhdRGRA-Z4">Viruses Revealed - Undestand and Counter Malicious Software</a></td><td>721 Pages</td></tr>
+<tr><td>92.</td><td><a target="_blank" href="https://mega.nz/#!qa5kTYrK!k54v8jyljDLp5UFit1a0wYdovy4l-t5hFXhdRGRA-Z4">Viruses Revealed - Understand and Counter Malicious Software</a></td><td>721 Pages</td></tr>
 <tr><td>93.</td><td><a target="_blank" href="https://mega.nz/#!nPo2yI6R!rFBGgNWmQRrMbwuBbL4QlNUUtWJmaZ5hLzG7QrNvVAk">Figital Forensics With Open Source Tools</a></td><td>289 Pages</td></tr>
 <tr><td>94.</td><td><a target="_blank" href="https://mega.nz/#!nX5gHCjS!vdRejQKWoOBB5ADpsciwODys4EszjWFNjTaltJcyQ7w">SSH, The Secure Shell - The Definitive Guide</a></td><td>438 Pages</td></tr>
 <tr><td>95.</td><td><a target="_blank" href="https://mega.nz/#!uO5EDA5B!KuLXrn9rqzRxHVqygUSIkThb1HS0iHCDRRiuqNHLa9o">Pro PHP Security</a></td><td>369 Pages</td></tr>
