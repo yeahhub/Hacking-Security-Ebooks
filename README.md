@@ -106,7 +106,7 @@ Top 100 Hacking &amp; Security E-Books (Free Download) - Powered by <a href="htt
 <tr><td>95.</td><td><a target="_blank" href="https://mega.nz/#!uO5EDA5B!KuLXrn9rqzRxHVqygUSIkThb1HS0iHCDRRiuqNHLa9o">Pro PHP Security</a></td><td>369 Pages</td></tr>
 <tr><td>96.</td><td><a target="_blank" href="https://mega.nz/#!fC5CiaLL!f9u2h1diOMm2b1eD00DdEF8EyVAdrIgzz4V_JHrqtTo">Zero Day Exploit - Countdown to Darkness</a></td><td>363 Pages</td></tr>
 <tr><td>97.</td><td><a target="_blank" href="https://difl.host/ffa6915892383ac4/97._Metasploit_Penetration_Testing_Cookbook.pdf">Metasploit Penetration Testing Cookbook</a></td><td>269 Pages</td></tr>
-<tr><td>98.</td><td><a target="_blank" href="https://mega.nz/#!nLpw2abD!Tla1GsHPg6NzxdExbd03jK5--hr62-R_xG6aHaI4374">24 Deadly Sins of Software Securtiy</a></td><td>433 Pages</td></tr>
+<tr><td>98.</td><td><a target="_blank" href="https://mega.nz/#!nLpw2abD!Tla1GsHPg6NzxdExbd03jK5--hr62-R_xG6aHaI4374">24 Deadly Sins of Software Security</a></td><td>433 Pages</td></tr>
 <tr><td>99.</td><td><a target="_blank" href="https://mega.nz/#!DPhQ3ICB!hUk6UqVzfcfyPL3ftYx7HR6d9HNo7p8IdUQjNMlOCTQ">Botnets - The Killer Web App</a></td><td>482 Pages</td></tr>
 <tr><td>100.</td><td><a target="_blank" href="https://mega.nz/#!DKoWUI5B!WXfTCl5-quuooEq1xf-MOtm3iMaDLOt8v9X3hTm4rA8">Hacker Highschool - Hack School for Beginners (ZIP)</a></td><td>12 Books</td></tr>
 </table>
