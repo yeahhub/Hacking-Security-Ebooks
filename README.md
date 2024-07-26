@@ -1,7 +1,5 @@
 # Hacking-Security-Ebooks
-Top 100 Hacking &amp; Security E-Books (Free Download) - Powered by <a href="https://www.yeahhub.com/biggest-hacking-security-ebooks-collection-free-download/">Yeahhub.com</a>.
-
-#<a href="https://www.mediafire.com/file/fqlaczyaubrrkoh/Yeahhub_-_Hacking_%2526_Security_E-Books.zip/file">Download All</a>
+To Download all PDF eBooks, please <a href="https://www.yeahhub.com/biggest-hacking-security-ebooks-collection-free-download/" target="_blank">click here</a>.
 
 <table width="100%" class="table">
 <tr>
